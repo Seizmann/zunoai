@@ -1,0 +1,8 @@
+
+{
+  "name": "Zuno AI Chat",
+  "description": "A sleek, minimal AI chatbot interface powered by Gemini 3 Flash, featuring real-time streaming responses, markdown support, and a modern dark-tech aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
